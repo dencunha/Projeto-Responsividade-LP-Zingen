@@ -45,10 +45,6 @@
   display: none;
 }
 
-.mobile-only {
-  display: initial;
-}
-
 .align {
   align-items: center;
 }
@@ -65,9 +61,5 @@
 
   .desktop-only {
     display: initial;
-  }
-
-  .mobile-only {
-    display: none;
   }
 }

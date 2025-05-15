@@ -16,7 +16,11 @@
       right: -2.5rem;
     }
   }
-  @media (width >= 80em) {
+
+  
+}
+@media (width >= 80em) {
+  #download {
     .card {
       padding: 8.75rem 5rem;
   
@@ -29,6 +33,7 @@
       }
     }
   }
+  
 }
 
 
