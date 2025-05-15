@@ -55,7 +55,7 @@ body {
 h1,
 h2,
 h3 {
-  line-height: 1,2;
+  line-height: 1.2;
   font-weight: var(--fw-lg);
   color: var(--text-color-primary);
   letter-spacing: -0.04em;
@@ -84,7 +84,7 @@ a:hover {
     var(--brand-color-secondary) 0%,
     var(--brand-color-primary) 100%
   );
-  
+
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;

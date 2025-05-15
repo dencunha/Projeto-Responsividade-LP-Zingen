@@ -1,5 +1,4 @@
 .container {
-  border: 1px solid rebeccapurple;
   --max-width: 375px;
   width: min(var(--max-width), 100% - var(--pd-x) * 2);
   margin-inline: auto;

@@ -21,6 +21,9 @@
     var(--brand-color-secondary) 0%,
     var(--brand-color-primary) 100%
   );
+  -webkit-background-clip: initial;
+  background-clip: initial;
+  color: var(--bg-color);
 }
 
 .btn-sm {
