@@ -90,6 +90,10 @@ a:hover {
   color: transparent;
 }
 
+img {
+  max-width: 100%
+}
+
 ul[role='list'] {
   list-style: none;
 }
